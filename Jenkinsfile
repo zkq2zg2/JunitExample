@@ -1,6 +1,3 @@
-node (test){
-   echo test > myfile.txt
-}
 node {
    def mvnHome
    stage('Preparation') { // for display purposes
